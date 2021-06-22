@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+#### Components
+
+- 🍖 [Hamburger steak](https://www.bikkuri-donkey.com/m17n/en/)
+- 🧘🏽 Early Buddhism
+
+#### Work
+
+- 👷‍♂️ "[build service](https://www.ctc-g.co.jp/solutions/build/)" by CTC
+
 <!--
 **ctc-itkr/ctc-itkr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
