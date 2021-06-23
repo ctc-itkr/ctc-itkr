@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a Software Engineer.
+
 #### Components
 
 - 🍖 [Hamburger steak](https://www.bikkuri-donkey.com/m17n/en/)
