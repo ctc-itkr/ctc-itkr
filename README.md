@@ -5,7 +5,7 @@ I'm a Software Engineer.
 #### Components
 
 - 🍖 [Hamburger steak](https://www.bikkuri-donkey.com/m17n/en/)
-- 🧘🏽 Early Buddhism
+- 🧘🏽 [Early Buddhism](https://en.wikipedia.org/wiki/Early_Buddhism)
 
 #### Work
 
